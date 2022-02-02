@@ -1,0 +1,26 @@
+body{
+    background: steelblue;
+}
+.image_div
+{
+    max-width: 100%;
+    min-width: 100%;
+    min-height:50vh;
+    max-height: 50vh;
+    overflow-y: hidden;
+    margin-top: 5%;
+}
+.manual,.pc
+{
+    text-align: center;
+}
+.manual .btns
+{
+margin-top: 5%;
+}
+#welcome
+{
+    text-align: center;
+    font-family: 'Comforter', cursive;
+
+}
